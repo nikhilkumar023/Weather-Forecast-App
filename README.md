@@ -41,33 +41,22 @@ Installation
 
 Clone the Repository: Open your terminal and clone the project from GitHub:
 
-git clone https://github.com/yourusername/weather-forecast-app.git
-cd weather-forecast-app
+  ~ git clone https://github.com/yourusername/weather-forecast-app.git
+  ~ cd weather-forecast-app
 
 Install Dependencies: Inside the project directory, install the required dependencies using Vite. Run the following command to install using npm:
 
-npm install
+  ~ npm install
 
 Run the Application Locally: To start the Vite development server and run the application on your local machine, use the following command:
 
-npm run dev
+  ~ npm run dev
 
 View the Application: After starting the app, Vite will output the local server URL. Open your browser and navigate to:
 
-http://localhost:5173
+  ~ http://localhost:5173
 
-Usage
-On loading, the app displays the current weather for Delhi.
-Use the search bar to look up weather information for any other city.
-Toggle between Celsius and Fahrenheit using the temperature unit switch.
-View a five-day weather forecast including the highs, lows, and weather icons for each day.
-Refresh the page on mobile by pulling down to refresh the data.
 
-Technologies Used
-React.js and SCSS for building the user interface.
-Vite for fast bundling and development.
-OpenWeatherMap API for fetching weather data.
-JavaScript (ES6) for logic implementation.
 
 
 
