@@ -56,6 +56,7 @@ View the Application: After starting the app, Vite will output the local server 
 
   ~ http://localhost:5173
 
+#Deployed link: https://weather-forecast-app-nine-weld.vercel.app/
 
 
 
