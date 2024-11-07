@@ -17,6 +17,7 @@ function ForecastCard({ data, index }) {
   );
 }
 
+
 ForecastCard.propTypes = {
   data: PropTypes.shape({
     dt_txt: PropTypes.string.isRequired,
